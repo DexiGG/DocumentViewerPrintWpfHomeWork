@@ -1,0 +1,15 @@
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\MainWindow.g.cs
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\App.g.cs
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork_MarkupCompile.cache
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork_MarkupCompile.lref
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\MainWindow.baml
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.g.resources
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+c:\users\джабашевн.corp\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
